@@ -1,4 +1,4 @@
-# github.com-sinohope-shamir-pasasword
+# shamir-pasasword
 
 example:
 
